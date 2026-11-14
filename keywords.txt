@@ -1,0 +1,26 @@
+# Arduino IDE syntax coloring. Columns are separated by real tabs.
+ThermostatBase	KEYWORD1		
+Config	KEYWORD1		
+Mode	KEYWORD1		
+Status	KEYWORD1		
+Begin	KEYWORD2		
+Update	KEYWORD2		
+GetName	KEYWORD2		
+GetStatus	KEYWORD2		
+GetConfig	KEYWORD2		
+SetConfig	KEYWORD2		
+SetTargetC	KEYWORD2		
+SetEnabled	KEYWORD2		
+IsValidConfig	KEYWORD2		
+StatusText	KEYWORD2		
+kMaximumDurationSeconds	LITERAL1		
+kHeating	LITERAL1		
+kCooling	LITERAL1		
+kNotStarted	LITERAL1		
+kStarting	LITERAL1		
+kDisabled	LITERAL1		
+kOk	LITERAL1		
+kNoData	LITERAL1		
+kSensorError	LITERAL1		
+kStaleReading	LITERAL1		
+kInitializationFailed	LITERAL1		
